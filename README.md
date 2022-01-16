@@ -1,11 +1,16 @@
 # api-imdb
 
-This project is only about setting up a little server. 
+Hey guys. 
 
-it only has one route, but that is good enough to prove I can set up a server. haha .. jk
+I decided to create an example-template for API connections.
 
-maybe I will improve it later on.
+It can take requests and pass on requests as well.
 
-Its about getting movie info by its name.
+obviously it is D most simple thing to set up, but I just wanted a ready template for example instead of 
+
+setting it up every time from the begining.
+
+and I said .. why not making it public? :D
+
 
 
