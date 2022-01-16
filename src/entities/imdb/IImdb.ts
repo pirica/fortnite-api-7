@@ -33,6 +33,7 @@ export interface Principal {
   startYear: number;
 }
 // ===================== movie ===================== //
+
  // ====================== actor ====================== //
 export interface ActorResponse {
   "@type": "imdb.api.name.bio";

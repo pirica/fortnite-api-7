@@ -10,7 +10,11 @@ obviously it is D most simple thing to set up, but I just wanted a ready templat
 
 setting it up every time from the begining.
 
-and I said .. why not making it public? :D
+I used IMDB for an example to a simple api.
+
+I only redeemed one call, which gets us all kinds of data of a movie by its title name.
+
+
 
 
 
