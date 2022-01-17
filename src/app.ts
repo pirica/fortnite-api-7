@@ -1,5 +1,5 @@
 import express from "express";
-
+import { getStoreInfo } from "./routes/example/logic";
 const app = express();
 
 // body parser
@@ -16,3 +16,6 @@ const port = process.env.PORT || 5000;
 app.listen(port, () => {
   console.log("Listening to port: ", port);
 });
+
+
+getStoreInfo()
