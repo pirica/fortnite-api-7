@@ -1,5 +1,6 @@
 import axios from "axios";
 import { FinalProduct } from "../../fortnite/FinalProduct";
+import { StoreProduct, Entry } from "../../fortnite/types/IProduct";
 
 export async function getStoreInfo(): Promise<FinalProduct[]> {
   const response: any = await axios.get("https://fortnite-api.com/v2/shop/br");

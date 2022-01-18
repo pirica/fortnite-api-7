@@ -1,5 +1,5 @@
 import express from "express";
-import { getStoreInfo } from "./routes/example/logic";
+import { getStoreInfo } from "./routes/fortnite/logic";
 const app = express();
 
 // body parser

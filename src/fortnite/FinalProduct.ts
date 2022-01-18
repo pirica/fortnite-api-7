@@ -1,3 +1,5 @@
+import { StoreProduct } from "./types/IProduct";
+
 export class FinalProduct {
     name;
     description;

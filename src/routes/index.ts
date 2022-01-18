@@ -2,6 +2,6 @@ import { Router } from "express";
 
 const router: Router = Router();
 
-router.use("/example", require("./example"));
+router.use("/fortnite", require("./fortnite"));
 
 module.exports = router;

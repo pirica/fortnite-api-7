@@ -1,7 +1,7 @@
 /**
  * The data we get from fortnite api.
  */
-declare interface StoreProduct {
+export interface StoreProduct {
   id: string;
   name: string;
   description: string;
@@ -47,7 +47,7 @@ declare interface StoreProduct {
 }
 
 
-declare interface Product {
+export interface Product {
   name: string;
   price: number;
   image: string;
@@ -57,7 +57,7 @@ declare interface Product {
   intrudction: { chapter: number; season: number; comment: string };
 }
 
-declare interface Entry {
+export interface Entry {
   regularPrice: number;
   finalPrice: number;
   bundle: {
